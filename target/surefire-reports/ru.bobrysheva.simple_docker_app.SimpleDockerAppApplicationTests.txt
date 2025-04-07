@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.bobrysheva.simple_docker_app.SimpleDockerAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.328 s -- in ru.bobrysheva.simple_docker_app.SimpleDockerAppApplicationTests
